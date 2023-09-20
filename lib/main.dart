@@ -23,7 +23,9 @@ const List<String> scopes = <String>[
 GoogleSignIn _googleSignIn = GoogleSignIn(
   // Optional clientId
   clientId:
-      '1066141440863-ofbj6i2n375tm1bm4v19o0rlsqaa7c43.apps.googleusercontent.com',
+      '592758164966-bpeci4mffirbpc4gogp8qisj9m8iutqe.apps.googleusercontent.com',
+  serverClientId:
+      '592758164966-bpeci4mffirbpc4gogp8qisj9m8iutqe.apps.googleusercontent.com',
   scopes: scopes,
 );
 
